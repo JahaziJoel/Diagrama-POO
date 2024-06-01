@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|c:\\users\\jahaz\\source\\repos\\tarea3\\tarea3\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E4093A-DA0F-45D2-8C1F-C696745523D4}|Tarea3\\Tarea3.csproj|solutionrelative:tarea3\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Docente.cs",
+              "RelativeDocumentMoniker": "Tarea3\\Docente.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Docente.cs",
+              "RelativeToolTip": "Tarea3\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:45:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Administrativo.cs",
+              "RelativeDocumentMoniker": "Tarea3\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Administrativo.cs",
+              "RelativeToolTip": "Tarea3\\Administrativo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:45:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\ExAlumno.cs",
+              "RelativeDocumentMoniker": "Tarea3\\ExAlumno.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\ExAlumno.cs",
+              "RelativeToolTip": "Tarea3\\ExAlumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:41:23.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Tarea3\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Estudiante.cs",
+              "RelativeToolTip": "Tarea3\\Estudiante.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:40:59.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Empleado.cs",
+              "RelativeDocumentMoniker": "Tarea3\\Empleado.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Empleado.cs",
+              "RelativeToolTip": "Tarea3\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:39:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maestro.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Maestro.cs",
+              "RelativeDocumentMoniker": "Tarea3\\Maestro.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Maestro.cs",
+              "RelativeToolTip": "Tarea3\\Maestro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:46:48.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiembroDeLaComunidad.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\MiembroDeLaComunidad.cs",
+              "RelativeDocumentMoniker": "Tarea3\\MiembroDeLaComunidad.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\MiembroDeLaComunidad.cs",
+              "RelativeToolTip": "Tarea3\\MiembroDeLaComunidad.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:37:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Administrador.cs",
+              "RelativeDocumentMoniker": "Tarea3\\Administrador.cs",
+              "ToolTip": "C:\\Users\\jahaz\\source\\repos\\Tarea3\\Tarea3\\Administrador.cs",
+              "RelativeToolTip": "Tarea3\\Administrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:46:33.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
